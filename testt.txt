@@ -1,1 +1,1 @@
-algorithm:dda
+algorithm:merge
